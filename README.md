@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Ahmed Mustafa! 👋
+
 
 <!-- الصور المتحركة تم تحديث روابطها لتعمل بشكل صحيح -->
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Ahmed" width="60%"/> <br>
