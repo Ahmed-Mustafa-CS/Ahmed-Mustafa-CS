@@ -1,10 +1,9 @@
 <div align="center">
 
+# 👨‍💻 Hello Coders, I'm Ahmed Mustafa! 👋
 
-
-<!-- الصور المتحركة تم تحديث روابطها لتعمل بشكل صحيح -->
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Ahmed" width="60%"/> <br>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Workspace" width="40%"/><br> 
+<!-- صورة تقنية عامة تعبر عن البرمجة بدون أسماء خارجية -->
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Workspace" width="50%"/><br> 
 
 <br>
 
@@ -39,10 +38,9 @@
 class Developer {
   const Ahmed = {
     "Name": "Ahmed Mustafa",
-    "Role": "Computer Science Student @ Ain Shams University",
-    "Main_Languages": ["C++"],
-    "Tools": ["n8n", "Docker", "Git"],
-    "AI_Models": ["Gemini", "ChatGPT", "Claude", "Grok"],
-    "Current_Focus": "The Goodness Platform"
+    "Education": "Computer Science @ Ain Shams University",
+    "Focus": ["C++", "Automation", "System Architecture"],
+    "Current_Project": "The Goodness Platform",
+    "AI_Competency": ["Gemini", "ChatGPT", "Claude", "Grok"]
   };
 }
