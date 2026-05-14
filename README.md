@@ -1,12 +1,14 @@
 <div align="center">
 
-<!-- الصورة الأولى - تم تحديث الرابط لضمان الظهور -->
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/> <br>
+# Hi there, I'm Ahmed Mustafa! 👋
+
+<!-- الصور المتحركة تم تحديث روابطها لتعمل بشكل صحيح -->
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Ahmed" width="60%"/> <br>
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Workspace" width="40%"/><br> 
 
 <br>
 
-<!-- الـ Badges الأساسية مع إصلاح رابط الـ Hits -->
+<!-- الإحصائيات وروابط التواصل -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Mustafa-CS&style=flat&color=orange&label=PROFILE+VIEWS)
 ![Hits](https://img.shields.io/badge/Hits-generated-brightgreen)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Mustafa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-mustafa-aa7920384) 
@@ -37,7 +39,7 @@
 class Developer {
   const Ahmed = {
     "Name": "Ahmed Mustafa",
-    "Role": "Computer Science Student",
+    "Role": "Computer Science Student @ Ain Shams University",
     "Main_Languages": ["C++"],
     "Tools": ["n8n", "Docker", "Git"],
     "AI_Models": ["Gemini", "ChatGPT", "Claude", "Grok"],
