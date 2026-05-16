@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Hello Coders, I'm Ahmed Mustafa! 👋
+#  Hello Coders, I'm Ahmed Mustafa! 
 
 <!-- صورة تقنية عامة تعبر عن البرمجة بدون أسماء خارجية -->
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Workspace" width="50%"/><br> 
